@@ -2,7 +2,7 @@
 
 ## Updated for 2022 (WIP)
 
- Visit https://marleygf.github.io/tk7movespretty/
+ Visit https://marleygf.github.io/tekdev/
 
 
 ### Improvements from mofolo
