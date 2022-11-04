@@ -7,7 +7,7 @@
 
 ### Improvements from mofolo
 
-- You can directly link characters using # URLS: https://tekken7.prettymoves.com/#LUCKY
+- You can directly link characters using # URLS
 
 - Image optimisations and code improvements to bring down loading time significantly.
 
